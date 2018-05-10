@@ -1,0 +1,1 @@
+# sample-factory-test
